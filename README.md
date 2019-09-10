@@ -1,5 +1,3 @@
-# IanJTyson.github.io
-
 # My Name
 
 ### I am an artist. This is my portfolio site.
